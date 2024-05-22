@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Bean"},{"l":"ConTroller"},{"l":"Extensions"},{"l":"JDBC"},{"l":"Model"},{"l":"Repository"},{"l":"View"}];updateSearchResults();
